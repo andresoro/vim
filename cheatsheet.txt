@@ -1,0 +1,13 @@
+
+mapping/cmd - summary
+
+Basics
+<esc> - exit to normal mode
+:q - quit
+:w - write to file
+i - insert mode`
+
+Movement
+j, k - down/up
+h, l - left/right
+
