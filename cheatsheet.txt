@@ -10,4 +10,5 @@ i - insert mode`
 Movement
 j, k - down/up
 h, l - left/right
-
+A - insert mode at the end of current line
+b, e - beginning/end of word
